@@ -9,7 +9,7 @@
 
 ###
 
-<div align="center" style="padding-left: 4px,padding-right: 4px">
+<div align="center" style="padding-left: 10px,padding-right: 10px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
